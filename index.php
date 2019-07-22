@@ -39,6 +39,10 @@ function izbrisi_niza($vrednost, $niza) {
     background: <?php echo $pozadina_boja; ?>;
     margin: 0;
     padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    height:100vh;
   }
 
   .prva {
